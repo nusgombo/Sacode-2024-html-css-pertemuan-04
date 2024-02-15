@@ -1,0 +1,31 @@
+*{
+    background-color: navy;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.bg-red{
+    color: white;
+    font-size: 20px;
+    padding-top: 5px;
+    border-image: 5px;
+}
+.bg-white{
+    color: yellow;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+.img{
+    width: 50px;
+    height: 60px;
+}
+.bg-black{
+    color:white;
+    padding-left: 20px;
+}
+button{
+    color:white;
+    text-decoration: solid;
+    font-size: 10px;
+    border-radius: 5px;
+
+}
